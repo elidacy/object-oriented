@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\bin\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.exe
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\bin\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.deps.json
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\bin\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.runtimeconfig.json
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\bin\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.runtimeconfig.dev.json
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\bin\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.dll
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\bin\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.pdb
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\obj\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\obj\Debug\netcoreapp3.1\sayı_bulmaca_nesne_tabanı2.Form1.resources
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\obj\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\obj\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\obj\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\obj\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.AssemblyInfo.cs
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\obj\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\obj\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.dll
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\obj\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.pdb
+C:\Users\User\source\repos\sayı bulmaca nesne tabanı2\sayı bulmaca nesne tabanı2\obj\Debug\netcoreapp3.1\sayı bulmaca nesne tabanı2.genruntimeconfig.cache
