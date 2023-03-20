@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\bin\Debug\netcoreapp3.1\buyuk_unlu.exe
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\bin\Debug\netcoreapp3.1\buyuk_unlu.deps.json
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\bin\Debug\netcoreapp3.1\buyuk_unlu.runtimeconfig.json
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\bin\Debug\netcoreapp3.1\buyuk_unlu.runtimeconfig.dev.json
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\bin\Debug\netcoreapp3.1\buyuk_unlu.dll
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\bin\Debug\netcoreapp3.1\buyuk_unlu.pdb
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\obj\Debug\netcoreapp3.1\buyuk_unlu.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\obj\Debug\netcoreapp3.1\buyuk_unlu.Form1.resources
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\obj\Debug\netcoreapp3.1\buyuk_unlu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\obj\Debug\netcoreapp3.1\buyuk_unlu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\obj\Debug\netcoreapp3.1\buyuk_unlu.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\obj\Debug\netcoreapp3.1\buyuk_unlu.AssemblyInfo.cs
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\obj\Debug\netcoreapp3.1\buyuk_unlu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\obj\Debug\netcoreapp3.1\buyuk_unlu.dll
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\obj\Debug\netcoreapp3.1\buyuk_unlu.pdb
+C:\Users\User\source\repos\buyuk_unlu\buyuk_unlu\obj\Debug\netcoreapp3.1\buyuk_unlu.genruntimeconfig.cache
