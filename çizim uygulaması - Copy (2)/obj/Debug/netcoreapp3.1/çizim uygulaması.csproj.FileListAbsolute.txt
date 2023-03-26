@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\bin\Debug\netcoreapp3.1\çizim uygulaması.exe
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\bin\Debug\netcoreapp3.1\çizim uygulaması.deps.json
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\bin\Debug\netcoreapp3.1\çizim uygulaması.runtimeconfig.json
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\bin\Debug\netcoreapp3.1\çizim uygulaması.runtimeconfig.dev.json
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\bin\Debug\netcoreapp3.1\çizim uygulaması.dll
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\bin\Debug\netcoreapp3.1\çizim uygulaması.pdb
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\obj\Debug\netcoreapp3.1\çizim uygulaması.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\obj\Debug\netcoreapp3.1\çizim_uygulaması.Form1.resources
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\obj\Debug\netcoreapp3.1\çizim uygulaması.csproj.GenerateResource.cache
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\obj\Debug\netcoreapp3.1\çizim uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\obj\Debug\netcoreapp3.1\çizim uygulaması.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\obj\Debug\netcoreapp3.1\çizim uygulaması.AssemblyInfo.cs
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\obj\Debug\netcoreapp3.1\çizim uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\obj\Debug\netcoreapp3.1\çizim uygulaması.dll
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\obj\Debug\netcoreapp3.1\çizim uygulaması.pdb
+C:\Users\User\source\repos\çizim uygulaması\çizim uygulaması\obj\Debug\netcoreapp3.1\çizim uygulaması.genruntimeconfig.cache
